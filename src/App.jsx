@@ -7,7 +7,6 @@ import HouseCard from './components/HouseCard';
 import ListingForm from './components/Listing';
 import MapView from './components/Mapview';
 import SearchFilter from './components/Search';
-import Rentals from './components/Rentals';
 import SignUp from './components/Signup';
 import Login from './components/Logout';
 import About from './components/About';
@@ -20,7 +19,6 @@ const App = () => {
         <main className="flex-grow">
           <Routes>
             <Route path="/" element={<HomePage />} />
-            <Route path="/rentals" element={<Rentals />} />
             <Route path="/properties" element={<HouseList />} />
             <Route path="/properties/:id" element={<HouseCard />} />
             <Route path="/add-listing" element={<ListingForm />} />
