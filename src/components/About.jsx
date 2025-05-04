@@ -37,7 +37,7 @@ const About = () => {
         <div className="absolute inset-0 bg-gradient-to-br from-blue-900 to-blue-600 opacity-90"></div>
         <div className="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
           <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
-            About RentalHub
+            About PerfectPlace
           </h1>
           <p className="mt-6 text-xl max-w-3xl">
             We're revolutionizing the way people find and rent properties by combining technology with personalized service.
@@ -53,7 +53,7 @@ const About = () => {
               Our Story
             </h2>
             <p className="mt-3 text-lg text-gray-500">
-              Founded in 2020, RentalHub began as a small team of real estate professionals and technologists who saw an opportunity to improve the rental experience for both tenants and property owners.
+              Founded in 2020, PerfectPlace began as a small team of real estate professionals and technologists who saw an opportunity to improve the rental experience for both tenants and property owners.
             </p>
             <p className="mt-3 text-lg text-gray-500">
               What started as a local service in New York has grown into a nationwide platform serving thousands of happy customers every month.
@@ -74,7 +74,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
           <div className="max-w-xl mx-auto text-center">
             <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-              Why Choose RentalHub?
+              Why Choose PerfectPlace?
             </h2>
             <p className="mt-4 text-lg text-gray-500">
               We're more than just a listing platform - we're your partner in finding the perfect home.

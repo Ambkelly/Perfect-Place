@@ -13,17 +13,11 @@ const Navbar = () => {
           <div className="flex items-center">
             <div className="flex-shrink-0 flex items-center">
               <Home className="h-8 w-8 text-blue-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">RentalHub</span>
+              <span className="ml-2 text-xl font-bold text-gray-900">PerfectPlace</span>
             </div>
             <div className="hidden md:ml-6 md:flex md:space-x-4">
               <Link to="/" className="px-3 py-2 text-sm font-medium text-gray-900 hover:text-blue-600">
                 Home
-              </Link>
-              <Link to="/rentals" className="px-3 py-2 text-sm font-medium text-gray-500 hover:text-blue-600">
-                Rentals
-              </Link>
-              <Link to="/map" className="px-3 py-2 text-sm font-medium text-gray-500 hover:text-blue-600">
-                Map View
               </Link>
               <Link to="/about" className="px-3 py-2 text-sm font-medium text-gray-500 hover:text-blue-600">
                 About
